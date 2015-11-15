@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoDM</string>
+    <string name="action_settings">Settings</string>
+    <string name="dice_roller_d_field">d</string>
+</resources>
